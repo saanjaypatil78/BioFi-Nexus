@@ -1,5 +1,5 @@
 # BioFi-Nexus
 
-BioFi-Nexus is a platform designed to integrate biological data with financial technologies.
+BioFi-Nexus is a cutting-edge platform bridging biological data and financial technology. It enables secure storage, tokenization, and trading of bio-data assets to accelerate research and innovation.
 
-For more details, see the [PRD](docs/PRD.md).
+For more details, please refer to the [Full Product Requirement Document (PRD)](docs/PRD.md).
