@@ -5,3 +5,4 @@ BioFi-Nexus is a cutting-edge platform bridging biological data and financial te
 ## Documentation
 - [Full Product Requirement Document (PRD)](docs/PRD.md)
 - [Execution Plan](docs/EXECUTION_PLAN.md)
+- [OpenClaw integration](docs/integrations/OPENCLAW.md)
